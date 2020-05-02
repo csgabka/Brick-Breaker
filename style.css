@@ -41,7 +41,7 @@ h1 {
 
 .rules-btn {
 	position: absolute;
-	z-index: -1;
+	z-index: 0;
 	top: 30px;
 	left: 30px;
 }
